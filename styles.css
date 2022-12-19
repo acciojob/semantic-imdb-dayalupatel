@@ -11,9 +11,9 @@ header{
     color: blue;
 }
 
-nav li {
+/* nav li {
     list-style: none;
-}
+} */
 nav ul li a{
     text-decoration: none;
     font-size: 23px;
