@@ -1,2 +1,50 @@
 
 /* Your CSS Code here. */
+body{
+    margin: 10px;
+    padding: 2px;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+header{
+    margin: 10px;
+    padding: 10px;
+    color: blue;
+}
+
+nav li {
+    list-style: none;
+}
+nav ul li a{
+    text-decoration: none;
+    font-size: 23px;
+    font-weight: bold;
+}
+
+summary {
+    font-size: 20px;
+    color: blueviolet;
+    margin: 20px;
+}
+
+#actor span {
+    font-weight: bolder;
+}
+#actor ol li {
+    margin: 10px 0px;
+}
+
+#quote ol li {
+    margin: 10px 0px;
+    font-weight: 900;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+aside {
+    font-family: cursive;
+}
+
+footer {
+    font-family: cursive;
+    font-weight: bold;
+}
+
